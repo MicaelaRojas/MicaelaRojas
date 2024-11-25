@@ -2,8 +2,10 @@
 <h3 align="center">🌐 Fullstack Software Developer from Peru</h3>
 
 <div align="center">
-  <img src="[https://giphy.com/embed/Bzzb92NKwUOj0FjQOd" width="480" height="271" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/english4it-cat-cool-kitten-Bzzb92NKwUOj0FjQOd](https://giphy.com/gifs/english4it-cat-cool-kitten-Bzzb92NKwUOj0FjQOd)" alt="coding gif" width="400" />
+  <img src="https://media.giphy.com/media/Bzzb92NKwUOj0FjQOd/giphy.gif" alt="cool cat gif" width="480" />
+  <p><a href="https://giphy.com/gifs/english4it-cat-cool-kitten-Bzzb92NKwUOj0FjQOd">via GIPHY</a></p>
 </div>
+
 
 - 🔭 I’m currently working on [Eventicket](https://github.com/4GeeksAcademy/Eventicket)
 
