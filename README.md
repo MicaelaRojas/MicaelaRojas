@@ -2,7 +2,7 @@
 <h3 align="center">🌐 Fullstack Software Developer from Peru</h3>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" alt="coding gif" width="400" />
+<iframe src="https://giphy.com/embed/Bzzb92NKwUOj0FjQOd" width="480" height="271" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/english4it-cat-cool-kitten-Bzzb92NKwUOj0FjQOd">via GIPHY</a></p>
 </div>
 
 - 🔭 I’m currently working on [Eventicket](https://github.com/4GeeksAcademy/Eventicket)
