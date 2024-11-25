@@ -2,7 +2,7 @@
 <h3 align="center">🌐 Fullstack Software Developer from Peru</h3>
 
 <div align="center">
-<iframe src="https://giphy.com/embed/Bzzb92NKwUOj0FjQOd" width="480" height="271" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/english4it-cat-cool-kitten-Bzzb92NKwUOj0FjQOd">via GIPHY</a></p>
+<div class="tenor-gif-embed" data-postid="4778563" data-share-method="host" data-aspect-ratio="1.34" data-width="100%"><a href="https://tenor.com/view/cat-computer-typing-keyboard-gif-4778563">Cat Computer GIF</a>from <a href="https://tenor.com/search/cat-gifs">Cat GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </div>
 
 - 🔭 I’m currently working on [Eventicket](https://github.com/4GeeksAcademy/Eventicket)
