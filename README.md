@@ -2,7 +2,7 @@
 <h3 align="center">🌐 Fullstack Software Developer from Peru</h3>
 
 <div align="center">
-<div class="tenor-gif-embed" data-postid="4778563" data-share-method="host" data-aspect-ratio="1.34" data-width="100%"><a href="https://tenor.com/view/cat-computer-typing-keyboard-gif-4778563">Cat Computer GIF</a>from <a href="https://tenor.com/search/cat-gifs">Cat GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+  <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" alt="coding gif" width="400" />
 </div>
 
 - 🔭 I’m currently working on [Eventicket](https://github.com/4GeeksAcademy/Eventicket)
