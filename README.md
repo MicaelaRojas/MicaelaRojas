@@ -3,7 +3,6 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/Bzzb92NKwUOj0FjQOd/giphy.gif" alt="cool cat gif" width="480" />
-  <p><a href="https://giphy.com/gifs/english4it-cat-cool-kitten-Bzzb92NKwUOj0FjQOd">via GIPHY</a></p>
 </div>
 
 
